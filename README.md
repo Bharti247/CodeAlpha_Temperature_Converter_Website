@@ -5,6 +5,8 @@ Interactive user interface with a sleek design.
 Real-time temperature conversion as the user enters values.
 Clear button to reset the input fields.
 Mobile-friendly and responsive design.
+
+
 Technologies Used
 HTML
 CSS
