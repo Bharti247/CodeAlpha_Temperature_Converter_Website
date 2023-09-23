@@ -11,3 +11,9 @@ Technologies Used:-
 HTML 
 CSS 
 JavaScript 
+
+
+Usage
+Enter a temperature value in the input field labeled "Enter temperature".
+After entering the value, press the "Enter" key, and you will see the temperature values updated in all three fields (C, K, and F).
+The converted temperature will be displayed in the selected unit (Celsius, Kelvin, or Fahrenheit) in real-time as you enter or change the values.
