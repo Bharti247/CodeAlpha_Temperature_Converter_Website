@@ -7,7 +7,7 @@ Clear button to reset the input fields.
 Mobile-friendly and responsive design.
 
 
-Technologies Used
+Technologies Used:-
 HTML 
 CSS 
 JavaScript 
